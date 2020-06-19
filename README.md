@@ -1,3 +1,6 @@
+# Robo Friends
+This was my first React Project. I lernt lots of new stuff. It seems a bit intimidating but a lot fun too. I will try exploring other js frameworks like Vue.js and Angular.js. 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
